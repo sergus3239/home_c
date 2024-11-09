@@ -1,0 +1,7 @@
+{
+    "makefile.configureOnOpen": false,
+    "files.encoding": "windows1251",
+    "files.candidateGuessEncodings": [
+        "windows1251"
+    ]
+}
