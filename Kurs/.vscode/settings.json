@@ -1,0 +1,11 @@
+{
+    "makefile.configureOnOpen": false,
+    "files.encoding": "utf8",
+    "files.associations": {
+        "conio.h": "c"
+    },
+    "emmet.excludeLanguages": [
+        "markdown",
+        "Locale"
+    ]
+}
