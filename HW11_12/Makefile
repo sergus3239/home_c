@@ -1,5 +1,5 @@
-CC = gcc               // макрос
-CFLAGS = -Wall -Werror // макрос
+CC = gcc               
+CFLAGS = -Wall -Werror 
 all: prog_temp
 prog_temp: main_temp.o temp_api.o
 	$(CC) $(CFLAGS) -o prog_temp main_temp.o temp_api.o
